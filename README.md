@@ -174,7 +174,7 @@ Abre tu navegador web e ingresa a:
 [http://localhost:8000](http://localhost:8000)
 
 ### Paso 3: Extraer datos en paralelo
-Escribe tus palabras clave, selecciona el límite de registros y haz clic en **"Iniciar Extracción Concurrente"**.
+Escribe tus palabras clave, selecciona el límite de registros y haz clic en **"Buscar"**.
 
 ---
 
